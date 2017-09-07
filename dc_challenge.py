@@ -95,8 +95,8 @@ def sum_odd_numbers3():
 	# while keep_running:
 	while 1:
 		sum += i
-		i += 1
-		if (i == 5000):
+		i += 2
+		if (i >= 5000):
 			break
 	print sum
 sum_odd_numbers3()
