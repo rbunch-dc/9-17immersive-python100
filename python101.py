@@ -76,8 +76,8 @@
 # addOneToMe -= 10
 
 # Order of operations is what you learned in the 3rd grade.
-# 2 + 3 * 4 = 14, not 24
-# 2 + 4 /2  = 4, not 3
+# 2 + (3 * 4) = 14, not 24
+# 2 + 4 / 2  = 4, not 3
 # () overrides everything. Use ()
 
 print "What is your name?"
